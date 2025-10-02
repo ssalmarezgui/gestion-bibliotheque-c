@@ -1,5 +1,0 @@
-				harry potter;sahar;1114455;9;8
-				cindrella;salma;778899;11;11
-				tito;fedi;668899;12;12
-				exemple;sousou;1789654;4;4
-				0;0;0;0;0
